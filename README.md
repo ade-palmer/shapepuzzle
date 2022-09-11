@@ -1,11 +1,13 @@
 # Shape puzzle
 
 
-This game is created using vanilla JavaScript and is based on an old favourite from the 80's
+This game is created using vanilla JavaScript and is based on an old favourite from the 80's.
 
-This is my first attempt at using Classes and Objects in JavaScript. Currently it will only work on modern browsers as I wanted to also use JavaScript Modules. The mobile 'touch' features have not been added yet, so this is not usable on a mobile phone or tablet.
+This is my first attempt at using Classes and Objects in JavaScript. Currently it will only work on modern browsers as I wanted to also use JavaScript Modules. The mobile 'touch' features have not been added yet, so this is currently not usable on a mobile phone or tablet.
 
-https://www.shapepuzzle.co.uk
+**Demo:** https://www.shapepuzzle.co.uk
+
+![image](https://user-images.githubusercontent.com/28670731/189527389-7ee5191d-e824-4024-839d-8cde9b57151b.png)
 
 ## Game Play
 
