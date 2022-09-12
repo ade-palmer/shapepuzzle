@@ -1,7 +1,7 @@
 # Shape puzzle
 
 
-This game is created using vanilla JavaScript and is based on an old favourite from the 80's.
+This game was created using vanilla JavaScript and is based on an old favourite from the 80's.
 
 This is my first attempt at using Classes and Objects in JavaScript. Currently it will only work on modern browsers as I wanted to also use JavaScript Modules. The mobile 'touch' features have not been added yet, so this is currently not usable on a mobile phone or tablet.
 
@@ -15,5 +15,5 @@ Select a piece from the bottom “holding’ board and it will be added to the �
 
 ## Implementation
 
-I’ve used the early implementation of ‘Static Web Apps’ provided by Azure to host this website and configured the certificate to allow HTTPS. It also uses Azures CDN to allow fast access from any location.
+I've used the early implementation of ‘Static Web Apps’ provided by Azure to host this website and configured the certificate to allow HTTPS. It also uses Azures CDN to allow fast access from any location.
 
