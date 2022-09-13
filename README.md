@@ -11,7 +11,7 @@ This is my first attempt at using Classes and Objects in JavaScript. Currently i
 
 ## Game Play
 
-Select a piece from the bottom ```holding board and it will be added to the ```Game Play board. Using the mouse ```right-click you will have the option to rotate, flip or remove from play. Using the mouse, drag the piece to the decided location. If the piece overlaps or is off the board, it will become slightly transparent.
+Select a piece from the bottom ```holding``` board and it will be added to the ```Game Play``` board. Using the mouse ```right-click``` you will have the option to rotate, flip or remove from play. Using the mouse, drag the piece to the decided location. If the piece overlaps or is off the board, it will become slightly transparent.
 
 ## Implementation
 
